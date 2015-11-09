@@ -11,13 +11,16 @@ The website will prompt the user for some basic information (occupation, work lo
 #### Data Sources:
 - Bootstrap (page layout and design)
 - Google Maps API (map visualization, distance calculation)
-- Apartment/rental housing data *to be determined*
+- Apartment/rental housing data *(source to be determined)*
 - Crime data from [CrimeReports](https://www.crimereports.com)
 - D3.js (interactive graphs)
+
 *in progress*
 
 #### Installation:
-A basic http server is required to run the webpage. *in progress*
+A basic http server is required to run the webpage.
+
+*in progress*
 
 #### Keywords:
 apartments, rental housing, crime, price, location, West Lafayette/Lafayette
